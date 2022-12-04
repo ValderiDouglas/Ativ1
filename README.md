@@ -1,5 +1,7 @@
 # Ativ1
 
+By Julio de Paula Machado e Valderi Douglas Camargo
+
 ### :gear: Como utilizar
 
 Para iniciar o projeto:
